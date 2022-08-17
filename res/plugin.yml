@@ -1,0 +1,4 @@
+name: PositiveChatOnly
+main: gecko10000.positivechatonly.PositiveChatOnly
+version: 0.1
+api-version: 1.19 # after all, chat wasn't signed before then
